@@ -1,6 +1,3 @@
-# resume
-Resume_OF_MD_Tuhin_Ahmed
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
